@@ -1,4 +1,4 @@
-# 🦊 ReScroll
+# 🦊 ForceScroll
 
 Firefox extension to automatically enable scrolling on all webpages.
 
