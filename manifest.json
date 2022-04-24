@@ -5,21 +5,18 @@
     "description": "Make a webpage scrollable if scroll is disabled, for example when you need to accept cookies.",
     "content_scripts": [
         {
-            "matches": ["https://*/*"],
+            "matches": [
+                "*://*/*"
+            ],
             "js": [
-                "background.js"
+                "content.js"
             ]
         }
     ],
-    "background": {
-        "scripts": [
-            "background.js"
-        ]
-    },
-    "browser_action": {
-        "default_icon": {
-            "16": "icons/rescroll-16.png",
-            "32": "icons/rescroll-32.png"
-        }
+    "icons": {
+        "96": "icons/rescroll-96.png",
+        "48": "icons/rescroll-48.png",
+        "32": "icons/rescroll-32.png",
+        "16": "icons/rescroll-16.png"
     }
 }
