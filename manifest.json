@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ForceScroll",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Make a webpage scrollable if scroll is disabled, for example when you need to accept cookies.",
     "content_scripts": [
         {

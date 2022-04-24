@@ -26,6 +26,8 @@ scrolling.
 
 ### ✅ Official release
 
+#### 👉 [INSTALL](https://addons.mozilla.org/en-US/firefox/addon/forcescroll/) 👈
+
 The add-on is currently under acceptance from Mozilla team.
 
 ### 📦 Pack the Extension and Install it Yourself
