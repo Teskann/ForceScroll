@@ -1,0 +1,1 @@
+zip -r -FS ./rescroll.zip * -x '*.git*' -x pack.sh -x *.md -x *.zip
