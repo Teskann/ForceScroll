@@ -1,1 +1,1 @@
-zip -r -FS ./rescroll.zip * -x '*.git*' -x pack.sh -x *.md -x *.zip
+zip -r -FS ./forcescroll.zip * -x '*.git*' -x pack.sh -x *.md -x *.zip
