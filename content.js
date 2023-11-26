@@ -1,4 +1,4 @@
-var r = 'html,body{overflow:auto !important;}';
+var r = 'html{overflow:auto !important;}';
 var s = document.createElement('style');
 s.type = 'text/css';
 s.appendChild(document.createTextNode(r));
