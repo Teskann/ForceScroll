@@ -45,7 +45,7 @@ Then, check the documentation of Firefox about how to install zip extensions.
 The extension injects a simple script in every page to enable scrolling:
 
 ```javascript
-var r = 'html,body{overflow:auto !important;}';
+var r = 'html{overflow:auto !important;}';
 var s = document.createElement('style');
 s.type = 'text/css';
 s.appendChild(document.createTextNode(r));
