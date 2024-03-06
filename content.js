@@ -1,4 +1,4 @@
-var r = 'html{overflow:auto !important;}';
+var r = 'html{overflow:auto !important; height: fit-content}';
 var s = document.createElement('style');
 s.type = 'text/css';
 s.appendChild(document.createTextNode(r));
